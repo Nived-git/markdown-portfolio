@@ -1,4 +1,4 @@
 List of my Favorite things 
-Blue sky
-Fresh water lake 
-Hillstations
+* Blue sky
+* Fresh water lake 
+* Hillstations
