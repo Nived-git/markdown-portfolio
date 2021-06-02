@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+List of my Favorite things 
+Blue sky
+Fresh water lake 
+Hillstations
